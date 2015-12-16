@@ -1,2 +1,2 @@
-proc print data = sashelp.clas;
+proc print data = sashelp.class;
 run;
